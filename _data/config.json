@@ -69,5 +69,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://oval-ant-f762c.netlify.app"
 }
